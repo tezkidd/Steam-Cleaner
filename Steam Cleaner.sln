@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steam Cleaner", "Steam Cleaner\Steam Cleaner.csproj", "{359111F2-D270-4D9D-805B-61368CA34B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359111F2-D270-4D9D-805B-61368CA34B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359111F2-D270-4D9D-805B-61368CA34B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359111F2-D270-4D9D-805B-61368CA34B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359111F2-D270-4D9D-805B-61368CA34B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B5098A-025C-4C05-8BE9-3F22F4358742}
+	EndGlobalSection
+EndGlobal
